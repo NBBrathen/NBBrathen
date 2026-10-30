@@ -24,7 +24,6 @@ I build and run backend systems. I'm working toward systems and embedded softwar
 ![GDB](https://img.shields.io/badge/GDB-grey?style=flat)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
-![Stats](https://github-readme-stats.vercel.app/api?username=NBBrathen&show_icons=true&theme=github_dark&hide_border=true)
 
 <div align="center">
 
