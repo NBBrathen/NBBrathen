@@ -9,7 +9,7 @@ I build and run backend systems. I'm working toward systems and embedded softwar
 ### Building now
 
 | Project | What |
-| --- | --- | --- |
+| --- | --- |
 | Bare-metal STM32 firmware | Startup code, linker script, interrupt-driven UART, I2C/SPI drivers, in C with no vendor code |
 | Memory allocator | A malloc replacement on Linux, benchmarked against glibc |
 
