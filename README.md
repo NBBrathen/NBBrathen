@@ -4,7 +4,7 @@
 
 </div>
 
-I build and run backend systems: a production Django/PostgreSQL CRM with Microsoft Graph and QuickBooks integrations, a 6,300-test suite, and a nightly pipeline that sanitizes data and fails closed. I'm working toward systems and embedded software in C, and studying operating systems and computer architecture in Georgia Tech's OMSCS.
+I build and run backend systems. I'm working toward systems and embedded software in C, and studying operating systems and computer architecture in Georgia Tech's OMSCS.
 
 ### Building now
 
