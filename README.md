@@ -6,6 +6,13 @@
 
 I build and run backend systems. I'm working toward systems and embedded software in C, and studying operating systems and computer architecture in Georgia Tech's OMSCS.
 
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NBBrathen/NBBrathen/output/github-snake-dark.svg" />
+    <img alt="Contribution snake" src="https://raw.githubusercontent.com/NBBrathen/NBBrathen/output/github-snake.svg" />
+  </picture>
+</div>
+
 ### Building now
 
 | Project | What |
