@@ -8,12 +8,11 @@ I build and run backend systems. I'm working toward systems and embedded softwar
 
 ### Building now
 
-| Project | What | Status |
+| Project | What |
 | --- | --- | --- |
-| Bare-metal STM32 firmware | Startup code, linker script, interrupt-driven UART, I2C/SPI drivers, in C with no vendor code | Starts Dec 2026 |
-| Memory allocator | A malloc replacement on Linux, benchmarked against glibc | Spring 2027 |
+| Bare-metal STM32 firmware | Startup code, linker script, interrupt-driven UART, I2C/SPI drivers, in C with no vendor code |
+| Memory allocator | A malloc replacement on Linux, benchmarked against glibc |
 
-Older repos are private while I rebuild them to a standard I can defend line by line.
 
 ### Tools I use
 
